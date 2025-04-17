@@ -27,7 +27,7 @@ TF-IDF Vectorizer
 5. Accuracy and performance metrics
 
 ## Model Performance
-Achieved **97% accuracy** on the test set using  Logistic Regression.
+Achieved **97% accuracy** on the test set using Logistic Regression.
 
 ## Future Improvements
 Explore deep learning approaches  
@@ -35,8 +35,11 @@ Add a web interface for user input
 Include more robust datasets
 
 ## How to Run
-```bash
+1. Download the `.ipynb` file and the dataset from [Kaggle Dataset Link](https://www.kaggle.com/datasets/ahmedali058/fakereal-news-prediction).
+2. Run the notebook in either **Jupyter** or **Google Colab**.
 
-Download the .ipynb file and the dataset
-# Run the notebook
-Open in Jupyter or Google Colab
+## Dataset Download
+The dataset can be downloaded from [Kaggle Dataset Link](https://www.kaggle.com/datasets/ahmedali058/fakereal-news-prediction).
+
+## Acknowledgements
+Thanks to the original dataset source and the NLP and ML community.
