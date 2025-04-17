@@ -36,6 +36,7 @@ Include more robust datasets
 
 ## How to Run
 ```bash
-# Download the .ipynb file and the dataset
+
+Download the .ipynb file and the dataset
 # Run the notebook
 Open in Jupyter or Google Colab
